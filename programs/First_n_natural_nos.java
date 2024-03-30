@@ -1,3 +1,6 @@
+
+// Q. Java program to print first N natural numbers
+
 package programs;
 
 import java.util.Scanner;

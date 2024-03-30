@@ -1,3 +1,6 @@
+
+// Q. Sum of first N natural numbers in Java
+
 package programs;
 
 import java.util.Scanner;
